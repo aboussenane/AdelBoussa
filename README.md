@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdelBoussa
 - 👀 I’m interested in Audio, 3D Graphics, Augmented Reality and AI!
-- 🌱 I’m currently learning mobile development for IOS in Xcode and augmented reality apps in Unity.
-- 💞️ I’m looking to collaborate on anyhting!
+- 🌱 I’m currently learning HTML5, CSS, Javascript and Swift.
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: email aboussenane@gmail.com or reach out on instagram @adelboussa_
 
 <!---
