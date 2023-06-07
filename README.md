@@ -3,7 +3,6 @@
 - 🌱 I’m currently working with C++, HTML5, CSS, Javascript and Swift.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: email aboussenane@gmail.com or reach out on instagram @adelboussa_
-- 👀 My audio work is here orangeaudio.org
 - 👀 Here's a link to a figma prototype https://www.figma.com/proto/ANyxWQpcutdZz1KlipnIZ4/Stem-(IOS)?scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A55&node-id=1%3A55
 <!---
 AdelBoussa/AdelBoussa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
